@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+pandas
+xgboost
+lightgbm 
+plotly
+fbprophet
+pandas-profiling
+holidays
+seaborn
+tqdm
